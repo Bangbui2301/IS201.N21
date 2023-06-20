@@ -6,6 +6,10 @@
 |STT| Họ và tên        | MSSV           | Email  |
 |---| ------------- |:-------------:| -----:|
 |1| Bùi Hữu Bằng      | 21520151 | [21520151@gm.uit.edu.vn](mailto:21520151@gm.uit.edu.vn?subject=[GitHub]%20Source%20Han%20Sans) |
-|2| Lê Thuận Hiếu      | 21522072      |  21522072@gm.uit.edu.vn](mailto:21522072@gm.uit.edu.vn?subject=[GitHub]%20Source%20Han%20Sans) |
-|3| Nguyễn Hoàng Đăng Khoa | 21520999   |   21520999@gm.uit.edu.vn](mailto:21520999@gm.uit.edu.vn?subject=[GitHub]%20Source%20Han%20Sans)  |
-|3| Cù Ngọc Hoàng | 21522086      |   21522086@gm.uit.edu.vn](mailto:21522086@gm.uit.edu.vn?subject=[GitHub]%20Source%20Han%20Sans)  |
+|2| Lê Thuận Hiếu      | 21522072      |  [21522072@gm.uit.edu.vn](mailto:21522072@gm.uit.edu.vn?subject=[GitHub]%20Source%20Han%20Sans) |
+|3| Nguyễn Hoàng Đăng Khoa | 21520999   |   [21520999@gm.uit.edu.vn](mailto:21520999@gm.uit.edu.vn?subject=[GitHub]%20Source%20Han%20Sans)  |
+|4| Cù Ngọc Hoàng | 21522086      |   [21522086@gm.uit.edu.vn](mailto:21522086@gm.uit.edu.vn?subject=[GitHub]%20Source%20Han%20Sans)  |
+## Công nghệ sử dụng
+* **Database Management System**: MySQL
+* **Backend**: Java, Spring Boot Framework
+* **Frontend**: Thymeleaf, Bootstrap.
