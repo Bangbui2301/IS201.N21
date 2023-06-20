@@ -12,4 +12,4 @@
 ## Công nghệ sử dụng
 * **Database Management System**: MySQL
 * **Backend**: Java, Spring Boot Framework
-* **Frontend**: Thymeleaf, Bootstrap.
+* **Frontend**: Thymeleaf, Bootstrap
